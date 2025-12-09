@@ -1,0 +1,6 @@
+title: "Stella's Blog"
+description: "A quick Jekyll blog on GitHub Pages"
+baseurl: "" # leave blank for user/organization pages
+url: "https://stella-hu-xing.github.io" # change if needed
+remote-theme: feeling-responsive
+plugins: []
