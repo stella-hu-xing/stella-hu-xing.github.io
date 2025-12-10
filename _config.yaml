@@ -2,6 +2,6 @@ title: "Stella's Blog"
 description: "A quick Jekyll blog on GitHub Pages"
 baseurl: ""
 url: "https://stella-hu-xing.github.io"
-remote-theme: Phlow/feeling-responsive
+remote-theme: chirpy-theme/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
